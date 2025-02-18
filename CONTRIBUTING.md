@@ -1,1 +1,2 @@
  All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+The CONTRIBUTING.md file is a key document in open-source projects that provides guidelines for contributing to the repository. It serves as a reference for anyone who wishes to contribute to the project, ensuring that contributions are made following the project's standards and best practices.
